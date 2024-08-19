@@ -1,0 +1,27 @@
+{
+  "groups": [
+    {
+      "name": "enterprise",
+      "type": "com.jensen.cofig.Enterprise",
+      "sourceType": "com.jensen.cofig.Enterprise"
+    }
+  ],
+  "properties": [
+    {
+      "name": "enterprise.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.jensen.cofig.Enterprise"
+    },
+    {
+      "name": "enterprise.name",
+      "type": "java.lang.String",
+      "sourceType": "com.jensen.cofig.Enterprise"
+    },
+    {
+      "name": "enterprise.subjects",
+      "type": "java.lang.String[]",
+      "sourceType": "com.jensen.cofig.Enterprise"
+    }
+  ],
+  "hints": []
+}
